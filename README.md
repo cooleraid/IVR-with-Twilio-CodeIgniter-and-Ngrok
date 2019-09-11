@@ -5,7 +5,7 @@ Interactive Voice Response System with Twilio CodeIgniter and Ngrok
 #### Clone the project on GitHub:
 
 ```bash
-git clone https://github.com/cooleraid/IVR-with-Twilio-CodeIgniter-and-Ngrok.git
+git clone https://github.com/learningdollars/adeoluwaakinsanya-IVR-with-Twilio-CodeIgniter-and-Ngrok.git
 ```
 
 ## Usage
@@ -22,4 +22,4 @@ Create a Twilio account and set up webhooks to your phone number
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[MIT](https://github.com/cooleraid/IVR-with-Twilio-CodeIgniter-and-Ngrok/blob/master/LICENSE)
+[MIT](https://github.com/learningdollars/adeoluwaakinsanya-IVR-with-Twilio-CodeIgniter-and-Ngrok/blob/master/LICENSE)
