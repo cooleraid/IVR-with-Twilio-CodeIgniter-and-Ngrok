@@ -25,7 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');class Flow extend
 			//if caller selects one, transfer the call to another number (sales agent). Replace xxxx-xxxx-xxxx with an actual phone number
 			echo '<?xml version="1.0" encoding="UTF-8"?>
 			<Response>
-			<Dial>+2347052481090</Dial>
+			<Dial>+xxxx-xxxx-xxxx</Dial>
 			</Response>';
 		}
 		elseif($input == 2){
